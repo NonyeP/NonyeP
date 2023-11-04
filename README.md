@@ -32,7 +32,7 @@ Oracle Java certifications. 🚀
 
 ### 📫 Let's Connect
 
-- 🌐 Check out my portfolio here on git hub http://www.github.com/NonyeP.github.io for updates on my Java learning journey
+- 🌐 Check out my portfolio here on git hub http://www.github.com/NonyeP/NonyeP.github.io for updates on my Java learning journey
 
  and other projects!
 
