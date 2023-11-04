@@ -1,16 +1,42 @@
 ### Hi there 👋
 
-<!--
-**NonyeP/NonyeP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm Juliet Phelan, a career switcher and enthusiast aiming to dive into the world of Java development and achieve
+
+Oracle Java certifications. 🚀
+
+### 🌱 About Me
+
+- 🔭 With a background in Physics, 👩‍💻 I am excited to transition into the tech industry, particularly Java development.
+
+- 📚 Currently, I'm studying Java programming, exploring its nuances, and gearing up for the programmer 1 & 2
+
+   Oracle Java certifications to solidify my skills.
+
+### 🔭 Tech Skills & Interests
+
+- 🧰 Aspiring Java Developer | Software Enthusiast | Future Oracle Certified Professional (OCP) | Tech Learner
+
+- 🎯 My interests include Java programming, Object-Oriented Design, and Continuous Learning in the tech.
+
+### 📚 Learning Journey
+
+👨‍💻 **Current Focus**  
+
+ - 🌱 Currently exploring various resources and coding practices to strengthen my understanding of Java programming.
+ - 🌱 Learning SAP Fiori.
+
+
+📝 Preparing rigorously for the Oracle Java SE 1Z0-808 and 1Z0-809 to validate my expertise in Java development.
+
+### 📫 Let's Connect
+
+- 🌐 Check out my portfolio here on git hub http://www.github.com/NonyeP.github.io for updates on my Java learning journey
+
+ and other projects!
+
+- 📧 Feel free to connect with me via [in/juliet-phelan-96a9b4182](https://www.linkedin.com/in/juliet-phelan-96a9b4182),
+
+   let's chat about all things tech and Java! 🤝
+
