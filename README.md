@@ -30,6 +30,9 @@ Oracle Java certifications. 🚀
 
 📝 Preparing rigorously for the Oracle Java SE 1Z0-808 and 1Z0-809 to validate my expertise in Java development.
 
+### ⚡ Fun fact: 
+- 🍳 I enjoy cooking.
+
 ### 📫 Let's Connect
 
 - 🌐 Check out my portfolio here on git hub http://www.github.com/NonyeP/NonyeP.github.io for updates on my Java learning journey
