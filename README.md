@@ -35,9 +35,9 @@ Oracle Java certifications. 🚀
 
 ### 📫 Let's Connect
 
-- 🌐 Check out my portfolio here on git hub http://www.github.com/NonyeP/NonyeP.github.io for updates on my Java learning journey
-
- and other projects!
+- 🌐 Check out my portfolio here on git hub http://www.github.com/NonyeP/NonyeP.github.io for updates on my Java
+  
+  learning journey and other projects!
 
 - 📧 Feel free to connect with me via [in/juliet-phelan-96a9b4182](https://www.linkedin.com/in/juliet-phelan-96a9b4182),
 
