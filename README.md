@@ -2,7 +2,7 @@
 
 
 
-Here's an  ALL ABOUT ME VIDEO LINK on Canva: 
+Here's MY PORTFOLIO VIDEO LINK on Canva: 
 
 > [src/](https://www.canva.com/design/DAFzUsw0Uk4/-aabyMZeKtnB-aZwSBTVzA/view?utm_content=DAFzUsw0Uk4&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
