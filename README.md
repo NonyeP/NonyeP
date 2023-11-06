@@ -2,6 +2,10 @@
 
 
 
+Here's my Canva Link: 
+
+> [src/](https://www.canva.com/design/DAFzUsw0Uk4/-aabyMZeKtnB-aZwSBTVzA/view?utm_content=DAFzUsw0Uk4&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+
 I'm Juliet Phelan, a career switcher and enthusiast aiming to dive into the world of Java development and achieve
 
 Oracle Java certifications. 🚀
