@@ -30,6 +30,7 @@ Oracle Java certifications. 🚀
 
  - 🌱 Currently exploring various resources and coding practices to strengthen my understanding of Java programming.
  - 🌱 Learning SAP Fiori.
+ - 🌱 Preparing for my java OCA and OCP Exams.
 
 
 📝 Preparing rigorously for the Oracle Java SE 1Z0-808 and 1Z0-809 to validate my expertise in Java development.
